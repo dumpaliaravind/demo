@@ -1,0 +1,20 @@
+From 6fbf9f3ccc8efa5e0fd6050756ee16b8123ff788 Mon Sep 17 00:00:00 2001
+From: pavan <ardevp@gmail.com>
+Date: Thu, 11 May 2017 11:28:57 -0700
+Subject: [PATCH 3/5] added amma
+
+---
+ amma.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 amma.txt
+
+diff --git a/amma.txt b/amma.txt
+new file mode 100644
+index 0000000..ce01362
+--- /dev/null
++++ b/amma.txt
+@@ -0,0 +1 @@
++hello
+-- 
+2.9.3.windows.1
+
